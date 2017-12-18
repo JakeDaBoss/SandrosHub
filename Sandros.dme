@@ -2449,6 +2449,7 @@
 #include "maps\exodus\exodus-6.dmm"
 #include "maps\exodus\exodus-7.dmm"
 #include "maps\overmap_example\overmap_example_define.dm"
+#include "maps\Sandros\Sandros_1.dmm"
 #include "maps\~mapsystem\map_preferences.dm"
 #include "maps\~mapsystem\map_ranks.dm"
 #include "maps\~mapsystem\maps.dm"
